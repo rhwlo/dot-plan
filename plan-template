@@ -1,0 +1,9 @@
+; Lines starting with a ; can be ignored. Other lines are parsed as follows:
+; - note
+; ^ punted to next plan-period (continue punting if no action)
+; > punted to next plan-period (turn into a .)
+; x finished task
+; . unfinished task
+; s scheduled task
+; o upcoming event
+
